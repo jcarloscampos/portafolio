@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+.lateral {
+	background-color: #12C08F;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	width: 350px;
+	padding: 1em;
+}
+
+.perfil_circulo {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	overflow: hidden;
+	margin: 0;
+}
+.perfil_foto {
+	width: 100%;
+}
+
+
+
+
+
+
+
+.proyectos {
+	margin-left: 350px;
+	padding: 1em;
+	display: table;
+}
+
+.proyecto {
+	display: table-cell;
+	padding: 1em;
+	width: 50%;
+}
+
+.proyecto_imagen {
+	width: 100%;
+}
