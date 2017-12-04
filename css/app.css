@@ -27,8 +27,40 @@ html {
 	width: 100%;
 }
 
+.perfil_nombres {
+	color: #fff;
+	font-size: 20px;
+	width: 250px;
+	margin-left: .5em;
+}
 
+.perfil_nombres, .perfil_circulo {
+	display: inline-block;
+	vertical-align: middle;
+}
 
+.informacion {
+	color: #0f6a62;
+	position: absolute;
+	bottom: 1em;
+}
+
+.informacion_titulo {
+	font-size: 18px;
+}
+
+.habilidad {
+	background-color: #0f6a62;
+	color: #fff;
+	font-size: 12px;
+	display: inline-block;
+	padding: .5em;
+	text-transform: uppercase;
+}
+
+.habilidades {
+	padding: 0;
+}
 
 
 
