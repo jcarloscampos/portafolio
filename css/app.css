@@ -62,9 +62,6 @@ html {
 	padding: 0;
 }
 
-
-
-
 .proyectos {
 	margin-left: 350px;
 	padding: 1em;
@@ -79,4 +76,13 @@ html {
 
 .proyecto_imagen {
 	width: 100%;
+}
+
+.proyecto_titulo {
+	color: #29597c;
+	font-size: 18px;
+}
+
+.proyecto_descripcion {
+	color: #797d7f;
 }
