@@ -7,7 +7,8 @@ html {
 }
 
 .lateral {
-	background-color: #12C08F;
+	/*background-color: #12C08F;*/
+	background-color: orange;
 	position: fixed;
 	top: 0;
 	bottom: 0;
